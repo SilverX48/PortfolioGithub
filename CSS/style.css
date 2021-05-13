@@ -1,5 +1,5 @@
 body{
-    background-image: url('/img/background_image.png');
+    background-image: url("../img/background_image.png");
     object-fit: contain;
     background-repeat: no-repeat;
     height: 100vh;
